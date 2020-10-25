@@ -1,0 +1,2 @@
+# SmartBuddy
+ A tutoring platform
